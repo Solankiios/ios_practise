@@ -4,5 +4,6 @@
         <page name='closureExercise'/>
         <page name='Dictionary'/>
         <page name='functions'/>
+        <page name='Protocols'/>
     </pages>
 </playground>

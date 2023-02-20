@@ -34,3 +34,6 @@ func autoClosureExample(getPower: @autoclosure () -> ()) {
 }
 
 autoClosureExample(getPower: print("solanki parth"))
+
+//Closure
+
